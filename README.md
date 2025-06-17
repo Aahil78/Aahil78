@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 <!--
 **Aahil78/Aahil78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! I'm Aahil. a 13 year old who loves engineering, programming, designing, making, soldering, and more! I run a Hack Club called Cyber Link where I teach students and teenagers robotics and engineering. I want to provide students and teenagers like me with free access to hardware, software, equipment, tools, etc. which is why I also teach for free. It's not registered as a 501(c)(3) nonprofit yet but it's under Hack Club, which is a registered nonprofit in the U.S.
+
+## Stats
+![Aahil78's Stats](https://github-readme-stats.vercel.app/api?username=Aahil78&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Aahil78's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aahil78&theme=vue-dark&hide_border=true)
+
+![Aahil78's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aahil78&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
